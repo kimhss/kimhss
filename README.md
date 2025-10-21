@@ -1,7 +1,8 @@
 ## 😄 Welcome to hyeonsu's GitHub 👋
 
 ### Contact me
-<img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/hyunuary108@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+
+<img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/hyunuary108@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 
 
 
