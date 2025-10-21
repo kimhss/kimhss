@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/hyunuary108@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 
 ### Technical Skill
-<img src="https://img.shields.io/badge/Java-6DB33F.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Java-6DB33F.svg?style=for-the-badge&logo=Java&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" />
 
 
 <!--
