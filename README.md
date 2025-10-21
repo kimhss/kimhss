@@ -1,6 +1,6 @@
 ## 😄 Welcome to hyeonsu's GitHub 👋
 
-## Contact me
+# Contact me
 <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 <!--
 **kimhss/kimhss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
