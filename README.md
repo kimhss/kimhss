@@ -1,5 +1,6 @@
-## Welcome to hyeonsu's github 👋
+## 😄 Welcome to hyeonsu's GitHub 👋
 
+## Contact me
 <!--
 **kimhss/kimhss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
