@@ -1,4 +1,6 @@
-## 😄 Welcome to hyeonsu's GitHub 👋
+<div align="center">
+  ## 😄 Welcome to hyeonsu's GitHub 👋
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
