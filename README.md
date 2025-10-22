@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+
 <div align="center">
-  <h1>😄 Welcome to hyeonsu's GitHub 👋</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+HyeonSu's+GitHub" alt="Typing SVG" /></a>
 </div>
 
 <!--내용 부분-->
