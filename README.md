@@ -3,6 +3,22 @@
 </div>
 
 <!--내용 부분-->
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@oka1313">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:kimhss@gmail.com">
+    <img
+      src="https://img.shields.io/badge/kimhss@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://www.notion.so/s-Archive-12beb96328cd81fb9c22e1cb2c7e7066">
+    <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />&nbsp
+  </a>
+</div>
+
+<br>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
@@ -37,19 +53,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:kimhss@gmail.com">
-    <img
-      src="https://img.shields.io/badge/kimhss@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-  <a href="https://www.notion.so/s-Archive-12beb96328cd81fb9c22e1cb2c7e7066">
-    <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />&nbsp
-  </a>
-</div>
+
 
 <!--
 **kimhss/kimhss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
