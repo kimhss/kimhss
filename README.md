@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=000000&width=435&lines=Welcome+to+HyeonSu's+GitHub" alt="Typing SVG" /></a>
 </div>
