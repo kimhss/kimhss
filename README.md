@@ -1,5 +1,5 @@
 <div align="center">
-  ## 😄 Welcome to hyeonsu's GitHub 👋
+  <h1>😄 Welcome to hyeonsu's GitHub 👋</h1>
 </div>
 
 <!--내용 부분-->
