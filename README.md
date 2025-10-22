@@ -46,6 +46,9 @@
     <img
       src="https://img.shields.io/badge/kimhss@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
+  <a href="https://www.notion.so/s-Archive-12beb96328cd81fb9c22e1cb2c7e7066">
+    <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />&nbsp
+  </a>
 </div>
 
 <!--
