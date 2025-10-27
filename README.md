@@ -5,9 +5,9 @@
 
 <!--내용 부분-->
 <h3 align="center">✉ Contact ✉</h3>
-<div>
+<div align="center>
   Hi, My name is Kim HyeunSu based in Seoul, Republic of Korea. <br>
-  I mainly use JAVA and I'm interested in designing flexible architecture
+  I mainly use JAVA and I'm interested in designing flexible architecture. <br>
 </div>
 <div align="center">
   <a href="https://velog.io/@oka1313">
