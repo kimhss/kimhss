@@ -55,19 +55,6 @@
 <br>
 <br>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/${kimhss}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${kimhss}&layout=compact&hide=${hack}" />
-  </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/${kimhss}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${kimhss}&include_all_commits=${ture}" />
-  </a>
-</p>
-
 
 
 <!--
