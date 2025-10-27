@@ -55,7 +55,18 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/${kimhss}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${kimhss}&layout=compact&theme=${light}&hide=${hack}" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/${kimhss}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${kimhss}&theme=${light}" />
+  </a>
+</p>
 
 
 
