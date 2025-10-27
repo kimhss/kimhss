@@ -2,10 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&width=435&lines=Welcome+to+My+GitHub!" alt="Typing SVG" /></a>
 </div>
 <br>
-<div align="center>
-  Hi, My name is Kim HyeunSu based in Seoul, Republic of Korea. <br>
-  I mainly use JAVA and I'm interested in designing flexible architecture. <br>
-</div>
+
 <!--내용 부분-->
 <h3 align="center">✉ Contact ✉</h3>
 <div align="center">
