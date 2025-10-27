@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimhss&layout=compact)
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kimhss&layout=compact"></a>
 </div>
 
 
