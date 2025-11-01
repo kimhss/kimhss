@@ -2,11 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&width=435&lines=Welcome+to+HyeonSu's+GitHub!" alt="Typing SVG" /></a>
 </div>
 <br>
-<div align="center">
-  <p>Hi there! My name is Kim HyeonSu.</p>
-  <p>I'm interested in felxible architecture design and I mainly develope by using Java. </p>
-</div>
-<br>
 
 <!--내용 부분-->
 <h3 align="center">✉ Contact ✉</h3>
