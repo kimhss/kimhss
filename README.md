@@ -1,5 +1,10 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&width=435&lines=Welcome+to+My+GitHub!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=000000&width=435&lines=Welcome+to+HyeonSu's+GitHub!" alt="Typing SVG" /></a>
+</div>
+<br>
+<div align="center">
+  <p>Hi there! My name is Kim HyeonSu.</p>
+  <p>I'm interested in designing </p>
 </div>
 <br>
 
