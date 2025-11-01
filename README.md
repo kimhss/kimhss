@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   <p>Hi there! My name is Kim HyeonSu.</p>
-  <p>I'm interested in designing </p>
+  <p>I'm interested in felxible architecture design and I mainly develope by using Java. </p>
 </div>
 <br>
 
